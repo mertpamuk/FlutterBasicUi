@@ -1,6 +1,4 @@
-# basicloginui
-
-A new Flutter project.
+# Flutter Basic Login Ui
 
 ## Getting Started
 
